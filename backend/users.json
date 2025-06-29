@@ -1,0 +1,341 @@
+[
+  {
+    "username": "lehrer1",
+    "password": "test123",
+    "role": "teacher"
+  },
+  {
+    "username": "Philippe",
+    "password": "test123",
+    "role": "teacher"
+  },
+  {
+    "username": "Urs",
+    "password": "test123",
+    "role": "teacher"
+  },
+  {
+    "username": "max",
+    "password": "passwort",
+    "role": "student",
+    "teacher": "lehrer1",
+    "progress": {
+      "level1Passed": true
+    },
+    "history": {
+      "level1Passed": [
+        {
+          "timestamp": "2025-06-28T00:12:50.266Z",
+          "score": 33,
+          "details": [
+            {
+              "task": 1,
+              "correct": false,
+              "answer": "HGEFLJLV WEFLIA"
+            },
+            {
+              "task": 2,
+              "correct": false,
+              "answer": 3
+            },
+            {
+              "task": 3,
+              "correct": true,
+              "answer": 1
+            },
+            {
+              "task": 4,
+              "correct": false,
+              "answer": 0
+            },
+            {
+              "task": 5,
+              "correct": true,
+              "answer": 0
+            },
+            {
+              "task": 6,
+              "correct": false,
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "timestamp": "2025-06-28T00:12:59.507Z",
+          "score": 83,
+          "details": [
+            {
+              "task": 1,
+              "correct": false,
+              "answer": "HGEFLJLV WEFLIA"
+            },
+            {
+              "task": 2,
+              "correct": true,
+              "answer": 2
+            },
+            {
+              "task": 3,
+              "correct": true,
+              "answer": 1
+            },
+            {
+              "task": 4,
+              "correct": true,
+              "answer": 2
+            },
+            {
+              "task": 5,
+              "correct": true,
+              "answer": 0
+            },
+            {
+              "task": 6,
+              "correct": true,
+              "answer": 3
+            }
+          ]
+        },
+        {
+          "timestamp": "2025-06-28T00:13:20.765Z",
+          "score": 100,
+          "details": [
+            {
+              "task": 1,
+              "correct": true,
+              "answer": "VFKODFKW YHUORUHQ"
+            },
+            {
+              "task": 2,
+              "correct": true,
+              "answer": 2
+            },
+            {
+              "task": 3,
+              "correct": true,
+              "answer": 1
+            },
+            {
+              "task": 4,
+              "correct": true,
+              "answer": 2
+            },
+            {
+              "task": 5,
+              "correct": true,
+              "answer": 0
+            },
+            {
+              "task": 6,
+              "correct": true,
+              "answer": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "username": "Der Leutnant von Leuten",
+    "password": "passwort",
+    "role": "student",
+    "teacher": "Philippe",
+    "progress": {
+      "level1Passed": true
+    }
+  },
+  {
+    "username": "lea",
+    "password": "passwort",
+    "role": "student",
+    "teacher": "lehrer1",
+    "progress": {
+      "level1Passed": true,
+      "level2Passed": true,
+      "level3Passed": true
+    },
+    "history": {
+      "level1Passed": [
+        {
+          "timestamp": "2025-06-28T00:13:39.355Z",
+          "score": 100,
+          "details": [
+            {
+              "task": 1,
+              "correct": true,
+              "answer": "VFKODFKW YHUORUHQ"
+            },
+            {
+              "task": 2,
+              "correct": true,
+              "answer": 2
+            },
+            {
+              "task": 3,
+              "correct": true,
+              "answer": 1
+            },
+            {
+              "task": 4,
+              "correct": true,
+              "answer": 2
+            },
+            {
+              "task": 5,
+              "correct": true,
+              "answer": 0
+            },
+            {
+              "task": 6,
+              "correct": true,
+              "answer": 3
+            }
+          ]
+        }
+      ],
+      "level2Passed": [
+        {
+          "timestamp": "2025-06-28T00:14:23.155Z",
+          "score": 100,
+          "details": [
+            {
+              "task": 1,
+              "correct": true,
+              "answer": "LMN VMDH FCKIUCO MGHKDVK"
+            },
+            {
+              "task": 2,
+              "correct": true,
+              "answer": "GRANDIOS"
+            },
+            {
+              "task": 3,
+              "correct": true,
+              "answer": 1
+            },
+            {
+              "task": 4,
+              "correct": true,
+              "answer": 1
+            },
+            {
+              "task": 5,
+              "correct": true,
+              "answer": [
+                2,
+                1
+              ]
+            },
+            {
+              "task": 6,
+              "correct": true,
+              "answer": 2
+            }
+          ]
+        }
+      ],
+      "level3Passed": [
+        {
+          "timestamp": "2025-06-28T00:15:35.725Z",
+          "score": 100,
+          "details": [
+            {
+              "task": 1,
+              "correct": true,
+              "answer": "GUTEREISE"
+            },
+            {
+              "task": 2,
+              "correct": true,
+              "answer": "ZEBRA"
+            },
+            {
+              "task": 3,
+              "correct": true,
+              "answer": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            },
+            {
+              "task": 4,
+              "correct": true,
+              "answer": [
+                0,
+                1,
+                2,
+                4
+              ]
+            },
+            {
+              "task": 5,
+              "correct": true,
+              "answer": [
+                0,
+                2,
+                5
+              ]
+            },
+            {
+              "task": 6,
+              "correct": true,
+              "answer": [
+                "Häufigkeit gleicher Textabschnitte untersuchen",
+                "Abstände zwischen gleichen Abschnitten bestimmen",
+                "Teiler der Abstände berechnen",
+                "Länge des Schlüsselwortes ermitteln",
+                "Häufigkeitsanalyse in Kolonnen durchführen",
+                "Schlüssel ermitteln",
+                "Geheimtext entschlüsseln"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "username": "manuela",
+    "password": "passwort",
+    "role": "student",
+    "teacher": "lehrer1",
+    "progress": {
+      "level1Passed": true,
+      "level2Passed": false,
+      "level3Passed": false
+    },
+    "history": {
+      "level1Passed": [
+        {
+          "timestamp": "2025-06-28T00:11:44.406Z",
+          "manual": "freigeschaltet"
+        }
+      ],
+      "level2Passed": [
+        {
+          "timestamp": "2025-06-28T00:16:00.870Z",
+          "manual": "freigeschaltet"
+        },
+        {
+          "timestamp": "2025-06-28T00:36:51.660Z",
+          "manual": "gesperrt"
+        }
+      ],
+      "level3Passed": [
+        {
+          "timestamp": "2025-06-28T00:16:08.694Z",
+          "manual": "freigeschaltet"
+        },
+        {
+          "timestamp": "2025-06-28T00:16:12.105Z",
+          "manual": "gesperrt"
+        }
+      ]
+    }
+  },
+  {
+    "username": "franz",
+    "password": "passwort",
+    "role": "student",
+    "teacher": "lehrer1",
+    "progress": {},
+    "history": {}
+  }
+]
